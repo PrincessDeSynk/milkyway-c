@@ -1,4 +1,4 @@
-# milkyway-c
+# Milkyway
 
 Milkyway is a chat app based off of the famous Discord.
 Hope You Enjoy!
